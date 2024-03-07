@@ -1,3 +1,3 @@
 cd /d %userprofile%\Desktop
-sc start sordrv.sys
-start /wait "" kdmapper.exe soardrv.sys
+sc start v.sys
+start /wait "" kdmapper.exe v.sys
