@@ -1,5 +1,5 @@
 ECHO OFF
-TITLE FlameUD Serial Checker
+TITLE VipeWare Serial Checker
 ECHO **********************************
 Color 2
 ECHO **********************************
